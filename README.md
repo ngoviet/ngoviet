@@ -24,8 +24,8 @@ for solar energy, home networks and the smart home. Everything is HACS-installab
 
 - [**BLDC Smart Fan**](https://github.com/ngoviet/esp32-esphome-bldc-smart-fan) — variable-speed BLDC fan with CLK frequency control and EC11 rotary encoder.
 - [**JK-BMS Monitor**](https://github.com/ngoviet/esp32-jk-bms-monitor) — JK-BMS 24V 280Ah battery monitoring over ESP32.
-- [**48V BMS Monitor + Fan Control**](https://github.com/ngoviet/esp32_doc_pin_48v) — JK-BMS monitoring with temperature-based cooling fan.
-- [**12V Auto Power Switch**](https://github.com/ngoviet/esp32-chuyen-nguon-12v) — switches power source based on battery SOC from Home Assistant.
+- [**48V BMS Monitor + Fan Control**](https://github.com/ngoviet/esp32-jk-bms-48v-fan-control) — JK-BMS monitoring with temperature-based cooling fan.
+- [**12V Auto Power Switch**](https://github.com/ngoviet/esp32-auto-power-switch-12v) — switches power source based on battery SOC from Home Assistant.
 - [**Smart LED Control**](https://github.com/ngoviet/esp32-smart-led-control) — modular ESPHome LED controller with BME280 and motion detection.
 - [**ESP32-C6 Matter Fan**](https://github.com/ngoviet/esp32-c6-matter-fan) — *experimental* Matter smart fan on ESP32-C6.
 
