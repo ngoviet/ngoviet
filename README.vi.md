@@ -54,6 +54,8 @@ tiếng Việt, và đều chạy thật trên hệ thống nhà mình.
 &nbsp;
 <a href="https://github.com/sponsors/ngoviet"><img src="https://raw.githubusercontent.com/ngoviet/.github/main/assets/support/btn-sponsors.svg" height="48" alt="GitHub Sponsors"></a>
 
+Tiền mã hoá (mạng BEP20): `0x57f07d44fb581cddc028a0c67d63a8cc05aa6caa` · USDT · USDC · BNB · ETH · BTC
+
 Chuyển khoản trong nước: mã VietQR (MB Bank · NGO DUC VIET · 911051212) có ở mục *Ủng hộ dự án* trong README tiếng Việt
 của mỗi repo. Cảm ơn bạn!
 
