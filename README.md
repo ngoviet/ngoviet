@@ -54,8 +54,11 @@ English and Vietnamese, and tested on my own setup.
 &nbsp;
 <a href="https://github.com/sponsors/ngoviet"><img src="https://raw.githubusercontent.com/ngoviet/.github/main/assets/support/btn-sponsors.svg" height="48" alt="GitHub Sponsors"></a>
 
-Crypto (BEP20 network): `0xcbf0402b232cb24b4d998f09a4884f87b5f74750` · USDT · USDC · BNB · ETH · BTC
+<img src="https://raw.githubusercontent.com/ngoviet/.github/main/assets/support/vietqr-card.svg" width="260" alt="VietQR — MB Bank — NGO DUC VIET — 911051212">
+&nbsp;
+<img src="https://raw.githubusercontent.com/ngoviet/.github/main/assets/support/crypto-card.svg" width="260" alt="Crypto — BNB Smart Chain (BEP20) — 0xcbf0402b232cb24b4d998f09a4884f87b5f74750">
 
-In Việt Nam, VietQR (MB Bank · NGO DUC VIET · 911051212) is in the *Support the project* section of every repository.
+**Crypto wallet, BNB Smart Chain (BEP20) only:**<br>
+`0xcbf0402b232cb24b4d998f09a4884f87b5f74750`
 
 📧 vokupt@gmail.com

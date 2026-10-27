@@ -54,9 +54,11 @@ tiếng Việt, và đều chạy thật trên hệ thống nhà mình.
 &nbsp;
 <a href="https://github.com/sponsors/ngoviet"><img src="https://raw.githubusercontent.com/ngoviet/.github/main/assets/support/btn-sponsors.svg" height="48" alt="GitHub Sponsors"></a>
 
-Tiền mã hoá (mạng BEP20): `0xcbf0402b232cb24b4d998f09a4884f87b5f74750` · USDT · USDC · BNB · ETH · BTC
+<img src="https://raw.githubusercontent.com/ngoviet/.github/main/assets/support/vietqr-card.svg" width="260" alt="VietQR — MB Bank — NGO DUC VIET — 911051212">
+&nbsp;
+<img src="https://raw.githubusercontent.com/ngoviet/.github/main/assets/support/crypto-card.svg" width="260" alt="Crypto — BNB Smart Chain (BEP20) — 0xcbf0402b232cb24b4d998f09a4884f87b5f74750">
 
-Chuyển khoản trong nước: mã VietQR (MB Bank · NGO DUC VIET · 911051212) có ở mục *Ủng hộ dự án* trong README tiếng Việt
-của mỗi repo. Cảm ơn bạn!
+**Ví tiền mã hoá, chỉ gửi qua mạng BNB Smart Chain (BEP20):**<br>
+`0xcbf0402b232cb24b4d998f09a4884f87b5f74750`
 
 📧 vokupt@gmail.com
