@@ -54,7 +54,7 @@ English and Vietnamese, and tested on my own setup.
 &nbsp;
 <a href="https://github.com/sponsors/ngoviet"><img src="https://raw.githubusercontent.com/ngoviet/.github/main/assets/support/btn-sponsors.svg" height="48" alt="GitHub Sponsors"></a>
 
-Crypto (BEP20 network): `0x57f07d44fb581cddc028a0c67d63a8cc05aa6caa` · USDT · USDC · BNB · ETH · BTC
+Crypto (BEP20 network): `0xcbf0402b232cb24b4d998f09a4884f87b5f74750` · USDT · USDC · BNB · ETH · BTC
 
 In Việt Nam, VietQR (MB Bank · NGO DUC VIET · 911051212) is in the *Support the project* section of every repository.
 
